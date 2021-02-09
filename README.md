@@ -1,16 +1,23 @@
-### Hi there 👋
+## First things first: Hello World 🚀
+Hello, I'm Carlos and a build stuff.
 
-<!--
-**carlos8v/carlos8v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**carlossouza.js**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+export default {
+  name: 'Carlos Souza',
+  from: 'Macapá, AP',
+  profession: 'Javascript Student',
+  email: 'carlos.pessoal@hotmail.com',
+  loves: [
+    'Code for the fun of it',
+    'Cries when code is not working',
+    'Completely forget about the previous troubles when the code works',
+  ],
+  stack: [
+    'Javascript',
+    'Node.js',
+    'React',
+  ],
+};
+```
