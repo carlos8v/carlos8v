@@ -9,6 +9,7 @@ export default {
   from: 'Macapá, AP',
   profession: 'Javascript Student',
   email: 'carlos.pessoal@hotmail.com',
+  linkedin: 'https://www.linkedin.com/in/carlos8v/',
   loves: [
     'Code for the fun of it',
     'Cries when code is not working',
