@@ -1,5 +1,5 @@
 ## First things first: Hello World 🚀
-Hello, I'm Carlos and a build stuff.
+Hi, I'm Carlos and a build stuff.
 
 **carlossouza.js**
 
@@ -10,9 +10,9 @@ export default {
   profession: 'Javascript Student',
   email: 'carlos.pessoal@hotmail.com',
   linkedin: 'https://www.linkedin.com/in/carlos8v/',
-  loves: [
+  usedTo: [
     'Code for the fun of it',
-    'Cries when code is not working',
+    'Cry when code is not working',
     'Completely forget about the previous troubles when the code works',
   ],
   stack: [
@@ -21,6 +21,7 @@ export default {
     'React',
   ],
 };
+
 ```
 
 ![Carlos8v's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlos8v&show_icons=true&theme=tokyonight)
