@@ -1,5 +1,5 @@
 ## First things first: Hello World 🚀
-Hi, I'm Carlos and a build stuff.
+Hi, I'm Carlos and I build stuff.
 
 **carlossouza.js**
 
