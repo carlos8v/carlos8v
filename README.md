@@ -5,7 +5,7 @@ Hi, I'm Carlos and I build stuff.
 
 ```javascript
 export default {
-  name: 'Carlos Souza',
+  name: 'Carlos Vinicius Freitas de Souza',
   from: 'Macapá, AP',
   profession: 'Javascript Student',
   email: 'carlos.pessoal@hotmail.com',
