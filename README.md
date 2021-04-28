@@ -12,14 +12,23 @@ export default {
   linkedin: 'https://www.linkedin.com/in/carlos8v/',
   usedTo: [
     'Code for the fun of it',
-    'Cry when code is not working',
+    'Cry when the code is not working',
     'Completely forget about the previous troubles when the code works',
   ],
-  stack: [
-    'Javascript',
-    'Node.js',
-    'React',
-  ],
+  skills: {
+    backend: [
+      'Node.js', 'MySQL',
+      'MongoDB', 'Docker',
+    ],
+    frontend: [
+      'HTML5', 'CSS3',
+      'React.js', 'Next.js',
+    ],
+    tools: [
+      'Git', 'Github',
+      'Cypress', 'Jest',
+    ]
+  },
 };
 
 ```
