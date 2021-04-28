@@ -10,18 +10,13 @@ export default {
   profession: 'Javascript Student',
   email: 'carlos.pessoal@hotmail.com',
   linkedin: 'https://www.linkedin.com/in/carlos8v/',
-  usedTo: [
-    'Code for the fun of it',
-    'Cry when the code is not working',
-    'Completely forget about the previous troubles when the code works',
-  ],
   skills: {
     backend: [
       'Node.js', 'MySQL',
       'MongoDB', 'Docker',
     ],
     frontend: [
-      'HTML5', 'CSS3',
+      'HTML5', 'CSS3', 'Javascript',
       'React.js', 'Next.js',
     ],
     tools: [
