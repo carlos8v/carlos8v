@@ -7,7 +7,7 @@ Hi, I'm Carlos and I build stuff.
 export default {
   name: 'Carlos Vinicius Freitas de Souza',
   from: 'Macapá, AP, Brazil',
-  profession: 'Javascript Student',
+  profession: 'JS Fullstack Developer',
   email: 'carlos.pessoal@hotmail.com',
   linkedin: 'https://www.linkedin.com/in/carlos8v/',
   skills: {
