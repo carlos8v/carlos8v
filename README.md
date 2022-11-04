@@ -1,33 +1,7 @@
-## First things first: Hello World 🚀
-Hi, I'm Carlos and I build stuff.
+### Hi there :wave: I’m Carlos Souza
 
-**carlossouza.js**
-
-```javascript
-export default {
-  name: 'Carlos Vinicius Freitas de Souza',
-  from: 'Macapá, AP, Brazil',
-  profession: 'JS Fullstack Developer',
-  email: 'carlos.pessoal@hotmail.com',
-  linkedin: 'https://www.linkedin.com/in/carlos8v/',
-  skills: {
-    backend: [
-      'Node.js', 'MySQL',
-      'MongoDB', 'Docker',
-    ],
-    frontend: [
-      'HTML5', 'CSS3', 'Javascript',
-      'React.js', 'Next.js',
-    ],
-    tools: [
-      'Git', 'Github',
-      'Cypress', 'Jest',
-    ]
-  },
-};
-
-```
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos8v&theme=tokyonight&layout=compact)
-
-![Carlos8v's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlos8v&show_icons=true&theme=tokyonight)
+- :telescope: Javascript Fullstack Developer.
+- :zap: Building apps using technologies including React and Node.js.
+- :dart: Passionate about dev challenges, so I made:
+  - [`blogs-api-challenge`](https://github.com/carlos8v/blogs-api-challenge) - Blogposts API with Node and Typescript
+  - [`link-shortener-challenge`](https://github.com/carlos8v/link-shortener-challenge) - Link shortener website with Vite
